@@ -1,0 +1,28 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+*~
+
+# Dependencies
+node_modules/
+
+# Generated icons (users generate their own)
+icons/*.png
+!icons/icon-base.svg
+
+# User data
+backups/
+*.backup.json
